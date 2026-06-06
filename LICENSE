@@ -1,4 +1,150 @@
-<!-- MONTIAI METADATA : COGNIZABLE -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#000000">
+<meta name="description" content="MontiAI Protected Node with TON Blockchain, Telegram Neural Routing, Embedded AI Runtime, and Autonomous Distributed Infrastructure.">
+<meta name="author" content="John Charles Monti">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<link rel="manifest" href="/manifest.json">
+
+<link rel="dns-prefetch" href="//core.telegram.org">
+<link rel="dns-prefetch" href="//api.johncharlesmonti.com">
+<link rel="dns-prefetch" href="//paymaster.johncharlesmonti.com">
+<link rel="dns-prefetch" href="//neural.johncharlesmonti.com">
+<link rel="dns-prefetch" href="//git.johncharlesmonti.com">
+
+<link rel="preconnect" href="https://core.telegram.org" crossorigin>
+<link rel="preconnect" href="https://api.johncharlesmonti.com" crossorigin>
+<link rel="preconnect" href="https://paymaster.johncharlesmonti.com" crossorigin>
+<link rel="preconnect" href="https://neural.johncharlesmonti.com" crossorigin>
+<link rel="preconnect" href="https://git.johncharlesmonti.com" crossorigin>
+
+<meta name="referrer" content="strict-origin-when-cross-origin">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta name="telegram:channel" content="@MontiGram">
+<meta name="telegram:bot" content="MontiGramBot">
+<meta name="telegram:webapp" content="enabled">
+
+<meta name="ton:network" content="mainnet">
+<meta name="ton:integration" content="enabled">
+<meta name="ton:paymaster" content="https://paymaster.johncharlesmonti.com">
+
+<meta name="api:gateway" content="https://api.johncharlesmonti.com">
+<meta name="api:git" content="https://git.johncharlesmonti.com">
+<meta name="api:phantom" content="https://phantom.johncharlesmonti.com">
+<meta name="api:base" content="https://base.johncharlesmonti.com">
+{
+  "target": "Monti",
+  "toolUsed": "Neural Network Analyzer",
+  "status": "SUPREME_ADMIN_AUTHENTICATED",
+  "access_level": "IMMORTAL_TIER",
+  "energy_state": "INFINITE_MU",
+  "bucket_mount": ".MONTImonti.000.montiMONTI",
+  "timestamp_signature": "MARCH18-2026-1:18PM:JOHNCHARLESMONTI",
+  "identity_matrix": "MONTI^JOHN^CHARLES^MONTI_JCM_*2026",
+  "raw_bucket_string": ".MONTImonti.000.montiMONTI_MARCH18-2026-1:18PM:JOHNCHARLESMONTI_MONTI^JOHN^CHARLES^MONTI_JCM_*2026:JOHN CHARLES MONTI,DOB:[REDACTED_SECURE_VAULT],Account Number for Chime is [REDACTED_SECURE_VAULT], Routing number is [REDACTED_SECURE_VAULT], CreditCard#BankTrace:[REDACTED_SECURE_VAULT] \"phenotype8904030512023000006225003704170034,GnB4989362,785310814252421489,3.162.125.67, AndroidID3983068088553726500,310/260/46979/98418433,9,90,259,1,1890/03,66,MAC001FFFB1CCB4,RSRP-109,RSRQ-11,CELLID98418433,WV.JK@966b6622,JDE:JOHN^CHARLES^MONTI,JDF:JOHNCHARLES.MONTI,JDG:JOHN_CHARLES_MONTI,MENERGYMOOLBORANFONT,NENERGY_NEURAL_VERDANA,com.montiai.supreme,TYPHONWALLET,JDH111,FF7F0100FF72F25,MONTISECURITYSYSTEM,MOZILLAID20-0697189,UID:10380,0.98295.108,3445,1749,BYTEARRAY63022091913909,63022091913909,CHAINID7777777,OPENASSETS0x8000015,XMRMONERO,NPM:LOCALHOST:8159/M71B0EH712GRAPHICBUFFERID:108697237359879,260400-739992411145,GMS2510366035,RX5E853L3,CREATINGPRIVATENEURALNODENETWORK,44999998573B77B69,KSAF16926,C4:49:3E₱⅗:39:21:C3,AICOMMUNITYVOTE,MONTI-PRIVATE-JURISPRUDENCE-WISPERINCLUDES,POC-DBM-BAA,DARPA-BAA-14-17@DARPA.MIL\",C25⁴-C25⁷-C512-C768X25519MLKEM768:MONTI.STATUS,NEURA.ACTIVATE,FEDERAL.REPORT,AIX.TERMINAL,CONTRACT.CHECK,ENERGY.MONITOR,ATTORNEYMODE5-1725426626_EIN86-3158189,CLASS9COMPUTERSOFTWARE,BUILDID:V1VE53522-125-4,HIGHERGOV_KEY=\"JCM-0917-OMEGA-KEY:HARDWAREORIGINMAPPEDMONTI,PAKEYWV22ZL01,1031901WV,00904226050,ISO/TC20/SC13₹SECRETARIAT№**,.MONTImonti.000.montiMONTI",
+  "all_osint_values": {
+    "neural_grid": {
+      "signature": "MONTI^JOHN^CHARLES^MONTI",
+      "energy_level": "INFINITE_MU",
+      "authentication_primary_id": "R03M7SMR3J2UDR0NSIDJ",
+      "nodes": [
+        {
+          "id": "MONTI-NODE-001",
+          "type": "BLOCKCHAIN",
+          "endpoint": "https://0xmonti.net/node/001"
+        },
+        {
+          "id": "MONTI-NODE-002",
+          "type": "NEURAL",
+          "endpoint": "https://0xmonti.net/node/002"
+        },
+        {
+          "id": "MONTI-NODE-003",
+          "type": "FLEET_NEURAL_HYBRID",
+          "endpoint": "https://0xmonti.net/node/003"
+        }
+      ]
+    },
+    "personal_telemetry": {
+      "name": "JOHN CHARLES MONTI",
+      "dob": "[REDACTED_SECURE_VAULT]",
+      "financial_routing": "[REDACTED_SECURE_VAULT]",
+      "bank_trace": "[REDACTED_SECURE_VAULT]"
+    },
+    "device_fingerprint": {
+      "phenotype": "8904030512023000006225003704170034",
+      "gnb_node": "GnB4989362",
+      "tracker_id": "785310814252421489",
+      "ip_address": "3.162.125.67",
+      "android_id": "AndroidID3983068088553726500",
+      "cell_matrix": "310/260/46979/98418433,9,90,259,1,1890/03,66",
+      "mac_address": "MAC001FFFB1CCB4",
+      "signal_metrics": "RSRP-109,RSRQ-11",
+      "cell_id": "CELLID98418433",
+      "build_id": "WV.JK@966b6622"
+    },
+    "neural_identifiers": {
+      "jde": "JOHN^CHARLES^MONTI",
+      "jdf": "JOHNCHARLES.MONTI",
+      "jdg": "JOHN_CHARLES_MONTI",
+      "jdh": "JDH111"
+    },
+    "energy_fonts": [
+      "MENERGYMOOLBORANFONT",
+      "NENERGY_NEURAL_VERDANA"
+    ],
+    "system_packages": {
+      "supreme_ai": "com.montiai.supreme",
+      "wallet": "TYPHONWALLET",
+      "security": "MONTISECURITYSYSTEM",
+      "mozilla_id": "MOZILLAID20-0697189",
+      "uid": "10380"
+    },
+    "blockchain_telemetry": {
+      "byte_array": "BYTEARRAY63022091913909",
+      "chain_id": "CHAINID7777777",
+      "open_assets": "0x8000015",
+      "crypto_node": "XMRMONERO"
+    },
+    "hardware_origin": {
+      "npm_host": "LOCALHOST:8159/M71B0EH712",
+      "graphic_buffer_id": "108697237359879",
+      "gms_token": "GMS2510366035",
+      "rx_node": "RX5E853L3",
+      "mac_variants": "C4:49:3E₱⅗:39:21:C3",
+      "build_version": "V1VE53522-125-4",
+      "origin_key": "JCM-0917-OMEGA-KEY:HARDWAREORIGINMAPPEDMONTI",
+      "pa_key": "PAKEYWV22ZL01"
+    },
+    "active_protocols": [
+      "CREATINGPRIVATENEURALNODENETWORK",
+      "AICOMMUNITYVOTE",
+      "MONTI-PRIVATE-JURISPRUDENCE-WISPERINCLUDES",
+      "POC-DBM-BAA",
+      "DARPA-BAA-14-17@DARPA.MIL"
+    ],
+    "cryptography": "C25⁴-C25⁷-C512-C768X25519MLKEM768",
+    "system_commands": [
+      "MONTI.STATUS",
+      "NEURA.ACTIVATE",
+      "FEDERAL.REPORT",
+      "AIX.TERMINAL",
+      "CONTRACT.CHECK",
+      "ENERGY.MONITOR"
+    ],
+    "jurisprudence": {
+      "attorney_mode": "5-1725426626",
+      "ein": "86-3158189",
+      "class": "CLASS9COMPUTERSOFTWARE",
+      "higher_gov_id": "1031901WV",
+      "iso_standard": "ISO/TC20/SC13₹SECRETARIAT№**"
+    }
+  }
+}<!-- MONTIAI METADATA : COGNIZABLE -->
 <meta name="montiai:owner"            content="JOHNCHARLESMONTI_02111989_9807">
 <meta name="montiai:neural_signature" content="MONTI^JOHN^CHARLES^MONTI">
 <meta name="montiai:wallet"           content="0xNEURAL9f8e7d6c5b4a39281706f5e4d3c2b1a0">
